@@ -1,1 +1,2 @@
-# Digital Lab Notebook
+# Waste Segregation System
+
